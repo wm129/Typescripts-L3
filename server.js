@@ -11,3 +11,4 @@ app.get('/user', (req, res) => {
 app.listen(8000, () => {
     console.log('server listening on port 8000...');
 });
+// CRUDによって通信の種類が分けられている
